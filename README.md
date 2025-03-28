@@ -26,14 +26,11 @@ Foi desenvolvido como parte dos meus estudos de programação orientada a objeto
 
 ```bash
 📁 projeto-smart-tv
-├── 📄 SmartTV.java         # Classe principal com os métodos da TV
+├── 📄 SmartTv.java         # Classe principal com os métodos da TV
 ├── 📄 Program.java         # Classe com método main, onde a TV é usada
 
----
 
-## Minhas Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-macedo-a0a713170)  
-
-- [Instagram](https://www.instagram.com/macedo_bg)
-
+🔗 Minhas Redes Sociais:
+- LinkedIn: https://www.linkedin.com/in/gabriel-macedo-a0a713170
+- Instagram: https://www.instagram.com/macedo_bg
+- GitHub: https://github.com/GabsMac94
