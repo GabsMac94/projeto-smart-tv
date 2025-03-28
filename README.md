@@ -33,5 +33,5 @@ Foi desenvolvido como parte dos meus estudos de programação orientada a objeto
 
 ## Minhas Redes Sociais
 
-Confira meu LinkedIn [clicando aqui](https://www.linkedin.com/in/gabriel-macedo-a0a713170/)
-Confira meu Instagram [clicando aqui](https://www.instagram.com/macedo_bg/)
+Confira meu LinkedIn [clicando aqui](https://www.linkedin.com/in/gabriel-macedo-a0a713170)
+Confira meu Instagram [clicando aqui](https://www.instagram.com/macedo_bg)
